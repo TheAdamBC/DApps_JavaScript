@@ -1,2 +1,3 @@
-# DApp_Demos_JavaScript
+# Adam BC DApps [JavaScript]
+
 Adam BC DApp Example Demos [JavaScript].
